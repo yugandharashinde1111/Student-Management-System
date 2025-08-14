@@ -25,3 +25,8 @@ This project provides separate dashboards for teachers and students, enabling se
 - **Tools:** Eclipse / IntelliJ IDEA, Git, GitHub
 
 ---
+
+## ⚙️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yugandharashinde1111/Student-Management-System.git
